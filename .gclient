@@ -27,6 +27,13 @@ solutions = [
     "managed"     : True,
     "custom_deps" : {},
   },
+  {
+    "name"        : "src/thirdparty/openvdb",
+    "url"         : "https://github.com/AcademySoftwareFoundation/openvdb.git@v6.1.0",
+    "deps_file"   : "DEPS",
+    "managed"     : True,
+    "custom_deps" : {},
+  },
 ]
 cache_dir = None
 
