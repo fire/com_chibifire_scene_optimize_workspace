@@ -1,7 +1,7 @@
 solutions = [
   {
     "name"        : "src",
-    "url"         : "git@github.com:fire/com_chibifire_scene_optimize.git",
+    "url"         : "https://github.com/fire/com_chibifire_scene_optimize.git",
     "deps_file"   : "DEPS",
     "managed"     : True,
     "custom_deps" : {},
